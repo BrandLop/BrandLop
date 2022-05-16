@@ -45,9 +45,3 @@ I am studying computer science.
 
 ### 📊 My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandlop&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="400px"/>
