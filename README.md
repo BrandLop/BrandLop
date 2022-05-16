@@ -15,7 +15,7 @@
 </h1>
 
 ### 👨‍💻 About Me :
-I am studying computer science.
+I’m studying computer science.
 
 - 🌱 I’m currently learning **Express, Jest, Supertest, TDD**
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Brandon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandlop/)
