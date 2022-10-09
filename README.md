@@ -1,14 +1,3 @@
-<div id="header" align="center">
-  <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" width="350"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/brandlop/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/brandlop7">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 <h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px"/>
@@ -17,8 +6,16 @@
 ### 👨‍💻 About Me :
 I’m studying computer science.
 
-- 🌱 I’m currently learning **Express, Jest, Supertest, TDD**
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Brandon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandlop/)
+- 🌱 I’m currently learning **AI with python**
+- 📫 How to reach me:
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/brandlop/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/brandlop7">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ### 💻 Tech Stack :
 <div>
