@@ -1,6 +1,5 @@
 <h1 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px"/>
+  Hey there :wave:
 </h1>
 
 ### 👨‍💻 About Me :
